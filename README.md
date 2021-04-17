@@ -1,6 +1,6 @@
 
 # Statistical and Machine Learning
-## Author: Jake Zhu
+## Author: Kolton Cox
 ---
 This repository presents a few of the components I have learned in my machine learning class taught by Dr. Randy Davila at University of Houston - Downtown for the semester of Spring 2021. 
 
