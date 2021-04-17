@@ -1,4 +1,4 @@
-![](CS_Image.png)
+![](CS_Image.jpg)
 ___________
 # Statistical and Machine Learning
 ## Author: Kolton Cox
