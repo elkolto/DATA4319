@@ -1,4 +1,5 @@
 ![](AI_image.png)
+
 # Statistical and Machine Learning
 ## Author: Kolton Cox
 ---
