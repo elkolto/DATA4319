@@ -1,4 +1,4 @@
-![](AI_Image.png)
+![](CS_Image.png)
 ___________
 # Statistical and Machine Learning
 ## Author: Kolton Cox
