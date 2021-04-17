@@ -33,5 +33,5 @@ This senior level data science course blends the predictive perspective of stati
 - [Python](https://www.python.org/) versions 3.6 and higher 
 - [Julia](https://julialang.org/) versions 1.0 and higher
 
+![](UHD-Logo-horizontal-Black.png)
 
- 
