@@ -1,5 +1,5 @@
-![](AI_image.png)
-
+![](AI_Image.png)
+___________
 # Statistical and Machine Learning
 ## Author: Kolton Cox
 ---
