@@ -14,11 +14,13 @@ Unlike supervised learning that tries to learn a function that will allow us to 
 ### Projects:
 The following topics are covered in this repository as part of the learning environment:
 
-Using Julia
-- Soon to come.
+Julia Programs:
+- Gradient Descent
+- K Nearest Neighbors
+- Linear Regression
+- Logistic Regression
+- Neural Nets
 
-Using Python
-- Soon to come.
 
 ### Course Description: 
 This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of  machine learning. Topics include,  but  are  not  limited  to: 
