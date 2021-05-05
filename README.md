@@ -12,7 +12,7 @@ An unsupervised machine learning algorithm makes use of input data without any l
 Unlike supervised learning that tries to learn a function that will allow us to make predictions given some new unlabeled data, unsupervised learning tries to learn the basic structure of the data to give us more insight into the data.
 
 ### Projects:
-The following topics are covered in this repository as part of the learning environment:
+The following topics are covered in this repository:
 
 Julia Programs:
 - Gradient Descent
